@@ -16,3 +16,8 @@ cat = Animal("felix", "brown", "feline")
 dog = Animal("rover", "golden", "canine")
 bird = Animal("Tweety", "yellow", "avian")
 fish = Animal("Nemo", "orange", "clown fish")
+
+cat.sound()
+dog.sound()
+bird.sound()
+fish.sound()
